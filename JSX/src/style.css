@@ -1,0 +1,6 @@
+.title-red{color: red;}
+
+.title-container {
+    display: flex;
+    justify-content: center;
+}
